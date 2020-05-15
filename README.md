@@ -1,6 +1,8 @@
-# explicitanimationexample
+# Very Simple Explicit Animation Example
 
-A new Flutter application.
+Video Capture |
+-------------
+![video](https://github.com/JohnnyWu0425/Flutter-Nmuber-Change-Explicit-Animation/blob/master/video.mov) |
 
 ## Getting Started
 
