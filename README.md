@@ -2,7 +2,7 @@
 
 Video Capture |
 ------------- |
-![video](https://github.com/JohnnyWu0425/Flutter-Nmuber-Change-Explicit-Animation/blob/master/video.mov) |
+![video](https://github.com/JohnnyWu0425/Flutter-Nmuber-Change-Explicit-Animation/blob/master/video.gif) |
 
 ## Getting Started
 
